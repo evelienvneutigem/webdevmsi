@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title> -- Evelien van Neutigem</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+  	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<div id="colorlib-page">
+		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
+		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
+			<h1 id="colorlib-logo"><a href="smartconnection.html">Smart connection</a></h1>
+			<nav id="colorlib-main-menu" role="navigation">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="work.html">Hello world video</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="services.html">Contact</a></li>
+					<li><a href="blog.html">Portfolio</a></li>
+					<li><a href="competenties.html">Competenties</a></li>
+			
+				</ul>
+			</div>
+
+		</aside>
+
+		<div id="colorlib-main">
+
+			<div class="colorlib-about">
+				<div class="colorlib-narrow-content">
+					<div class="row row-bottom-padded-md">
+						<div class="col-md-6">
+							<div class="about-img animate-box" data-animate-effect="fadeInLeft">
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="about-desc">
+								<span class="heading-meta"></span>
+								<h2 class="colorlib-heading">Smart connection</h2>
+								<p> 15 Januari 2019 </hreb>
+              
+1.	Past nieuwe technologieën toe op het gebied van web, data, cloud en AI op een praktijkcasus. En plaatst de casus in een businesscontext
+<hr>
+Vooral in de eerste zes weken zijn we hier mee aan de slag gegaan. Ik vond dit een heel interessant onderdeel van de minor. Ik ben zelf namelijk totaal niet technisch onderlegd. Ik vond het heel leuk om zelf een website te kunnen maken. Aan het begin ging de uitleg hiervoor wel heel erg snel. Vooral voor mensen die er niets van weten. Maar met behulp van het boek HTML en CSS van Jon Duckett kwam ik er uit. Vooral omdat het nog zoveel zoeken was heeft dit heel erg veel tijd gekost. Uiteindelijk heb ik toch voor een format gekozen. Hier heb ik een aantal dingen in aangepast en verder ingevuld met mijn informatie. Nog steeds vindt ik het erg lastig om te werken met HTML vooral omdat het elke keer weer wennen is en zoeken. Ik vond het dan ook erg lastig dat alles uiteindelijk op de website moet worden opgeleverd. Ook hierbij verbaasde ik me er over hoe makkelijk een basis website te maken is, maar ook hoe makkelijk je een foutje maakt. Hierbij vond ik het ook heel interessant om verhalen uit de klas te horen en de presentatie van Tom en Benno heeft ook veel achtergrondinformatie gegeven.
+<hr>
+https://evelienvneutigem.github.io/webdevmsi/index.html
+<hr>
+2.	De student vertaalt een praktijkcasus naar een onderzoeksplan, voert deze uit en evalueert de kwaliteit van de uitvoering.
+<hr>
+Als ik iets in mijn hoofd heb wil ik dat het er ook precies zo uitziet. Dat is erg lastig als je niet precies weet hoe het werkt. Hierdoor heb ik veel onderzoek moeten doen, hiervoor heb ik uiteindelijk het boek HTML en CSS van Jon Duckett aangeschaft. Met behulp van het boek en de lessen lukte het uiteindelijk wel om het grote geheel te begrijpen. Om heel specifieke dingen op te lossen ben ik elke keer weer lang aan het zoeken. Hiervoor heb ik ook verschillende forums afgezocht naar oplossingen. 
+<hr>
+3.	De student communiceert op effectieve wijze zijn bevindingen naar verschillende doelgroepen.
+<hr>
+Ik heb mijn bevindingen via mijn persoonlijke site gedeeld. Van de meest interessante onderdelen heb ik een verslag geschreven met de dingen die mij aanspreken. Daarnaast heb ik mondeling en e-mail contact gehad met verschillende medestudenten en docenten. 
+<br> </p>
+							</div>
+							
+
+					</div>
+				
+										
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Sticky Kit -->
+	<script src="js/sticky-kit.min.js"></script>
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+	
+	
+	<!-- MAIN JS -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
